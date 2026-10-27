@@ -26,7 +26,6 @@ The main purpose of this project is to create an attractive online fashion platf
 
 * **HTML5** – Website structure
 * **CSS3** – Styling and layout
-* **JavaScript** – Website functionality
 * **GitHub Pages** – Website hosting
 
 ## 📂 Project Structure
